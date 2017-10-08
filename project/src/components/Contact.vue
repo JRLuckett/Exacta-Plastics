@@ -6,7 +6,7 @@
           <h1>Contact Us</h1>
           <img src="../assets/group.jpg" alt="group of engineers">
           <br>
-          <a class="button is-large" href="mailto:jluckettt@gmail.com">Email</a>
+          <a class="button is-large" href="mailto:???@gmail.com">Email</a>
         </div>
       </div>
     </section>
